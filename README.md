@@ -31,6 +31,6 @@ Here is a multiple-line graph that shows the average fare for each week by each 
 We can see that the weekly total fare by city type varies greatly between Urban, Suburban and Rural areas. However, the weekly total fare is consistent week over week within a specific city type.
 
 We notice that for the period of analysis (first 18 weeks of January 2019), the weekly total fare ranges were:
-	- between $1,500 and $3,000 for Urban areas
-	- between $500 and $1,500 for Suburban areas
-	- between $0 and $500 for Rural areas
+- between $1,500 and $3,000 for Urban areas
+- between $500 and $1,500 for Suburban areas
+- between $0 and $500 for Rural areas
