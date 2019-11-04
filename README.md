@@ -26,7 +26,7 @@ We can draw two main insights from this summary:
 
 Here is a multiple-line graph that shows the average fare for each week by each city type:
 
-![alt text](Analysis/total_fare_by_city_type.png)
+![alt text](Analysis/total_fare_by_city_type2.png)
 
 We can see that the weekly total fare by city type varies greatly between Urban, Suburban and Rural areas. However, the weekly total fare is consistent week over week within a specific city type.
 
