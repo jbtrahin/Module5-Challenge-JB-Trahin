@@ -17,7 +17,7 @@ In this project, our final Python script will need to be able to deliver the fol
 ## Summary
 Here is a summary table of key metrics of the ride-sharing data by city type:
 
-![alt text]()
+![alt text](Analysis/PyBer_summary_df.png)
 
 We can draw two main insights from this summary:
 1. As the number of total rides and total drivers increases, the average fare per ride decreases.
@@ -26,7 +26,7 @@ We can draw two main insights from this summary:
 
 Here is a multiple-line graph that shows the average fare for each week by each city type:
 
-![alt text]()
+![alt text](Analysis/total_fare_by_city_type.png)
 
 We can see that the weekly total fare by city type varies greatly between Urban, Suburban and Rural areas. However, the weekly total fare is consistent week over week within a specific city type.
 
